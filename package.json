@@ -46,7 +46,7 @@
     "vite-tsconfig-paths": "^5.1.4",
     "vitest": "^3.0.5"
   },
-  "pnpm": {
+  "npm": {
     "onlyBuiltDependencies": [
       "esbuild",
       "lightningcss"
